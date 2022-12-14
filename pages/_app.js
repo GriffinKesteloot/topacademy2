@@ -27,7 +27,7 @@ import Location from '../components/specificComponents/Location/Location';
 
 
 const components = {
-  person: Organizers,
+  person: Teacher,
   experience: Experience,
   hero: Hero,
   page: Page,
